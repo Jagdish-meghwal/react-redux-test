@@ -117,5 +117,6 @@ display: block;
   .main {
     background-color: white;
     margin: 10px;
+    margin-top: 200px;
   }
 }
