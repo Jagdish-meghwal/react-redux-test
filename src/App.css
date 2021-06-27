@@ -1,0 +1,23 @@
+
+@media screen and (max-width: 700px) {
+  .row, .navbar {   
+    flex-direction: column;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Style the body */
+.container {
+  font-family: Arial;
+  margin: 0;
+  height: 100vh;
+
+}
+
+.row {  
+  display: flex;
+  flex-wrap: wrap;
+}
